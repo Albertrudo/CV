@@ -1,2 +1,1 @@
-# CV
-Сайт визитка на HTML и CSS
+# albertru.github.io
